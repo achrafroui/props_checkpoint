@@ -1,0 +1,22 @@
+.myStyle {
+    text-align : center;
+    font-family : sans-serif;
+    color : red;
+
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50% ;
+}
+button {
+    width : 200px ; 
+    height : 100px ;
+    background-color : green;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
